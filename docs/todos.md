@@ -1,0 +1,37 @@
+# <FONT COLOR=#8B008B>Todas las actividades</font>
+Sección donde disponemos de todos los programas de las actividades en formato .abp listos para importar a nuestros proyectos.
+
+* Rotar servo 90º es una tarea a realizar antes de montar los servos en su posición: [Smart-home-Rotar-servo-90.abp](../Actividades/Smart-home-Rotar-servo-90.abp)
+* Parpadeo de un LED: [Smart-home-A01_1.abp](../Actividades/Smart-home-A01_1.abp)
+* Control de luminosidad de un LED por PWM: [Smart-home-A01_2.abp](../Actividades/Smart-home-A01_2.abp)
+* Tonos básicos: [Smart-home-A02_1](../Actividades/Smart-home-A02_1.abp)
+* Escala musical: [Smart-home-A02_2](../Actividades/Smart-home-A02_2.abp)
+* Partitura: [Smart-home-A02_3](../Actividades/Smart-home-A02_3.abp)
+* Melodias RTTTL: [Smart-home-A02_4](../Actividades/Smart-home-A02_4.abp)
+* Pulsador 1: [Smart-home-A03_1](../Actividades/Smart-home-A03_1.abp)
+* Pulsador 2: [Smart-home-A03_2](../Actividades/Smart-home-A03_2.abp)
+* Pulsador invertido: [Smart-home-A03_3](../Actividades/Smart-home-A03_3.abp)
+* Un pulsador enciende y el otro apaga: [Smart-home-A03_4](../Actividades/Smart-home-A03_4.abp)
+* Morse: [Smart-home-A03_5](../Actividades/Smart-home-A03_5.abp)
+* Una pulsación enciende LED, dos pulsaciones mas lo apagan: [Smart-home-A03_6](../Actividades/Smart-home-A03_6.abp)
+* Funcionamiento básico de un relé: [Smart-home-A04_1](../Actividades/Smart-home-A04_1.abp)
+* Control de un relé desde la consola: [Smart-home-A04_2](../Actividades/Smart-home-A04_2.abp)
+* Interruptor crepuscular para luz exterior: [Smart-home-A05_2](../Actividades/Smart-home-A05_2.abp)
+* Control ventana por listas: [Smart-home-A06_1](../Actividades/Smart-home-A06_1.abp)
+* Control básico de la puerta: [Smart-home-A06_2](../Actividades/Smart-home-A06_2.abp)
+* Control velocidad y estado del ventilador: [Smart-home-A07_1](../Actividades/Smart-home-A07_1.abp)
+* Control ventilador con pulsador: [Smart-home-A07_2](../Actividades/Smart-home-A07_2.abp)
+* Sensor de vapor como sensor táctil: [Smart-home-A08_1](../Actividades/Smart-home-A08_1.abp)
+* Valor analógico de sensor steam: [Smart-home-A08_2](../Actividades/Smart-home-A08_2.abp)
+* Alarma óptico-acústica por detector PIR: [Smart-home-A09_1](../Actividades/Smart-home-A09_1.abp)
+* Lectura sensor MQ-2 y datos en la consola: [Smart-home-A10_1](../Actividades/Smart-home-A10_1.abp)
+* Lectura sensor MQ-2 y datos en Serial plotter: [Smart-home-A10_2](../Actividades/Smart-home-A10_2.abp)
+* Alarma por presencia de gases con MQ-2: [Smart-home-A10_3](../Actividades/Smart-home-A10_3.abp)
+* Detección de dispositivos I2C: [Smart-home-detectar-IIC](../Actividades/Smart-home-detectar-IIC.abp)
+* Escritura básica en la LCD: [Smart-home-A11_1](../Actividades/Smart-home-A11_1.abp)
+* Multitarea: [Smart-home-A11_2](../Actividades/Smart-home-A11_2.abp)
+* Sensor de humedad del suelo: [Smart-home-A12_1](../Actividades/Smart-home-A12_1.abp)
+
+***
+
+* Todos los programas en un archivo comprimido: [Actividades](../Actividades/Actividades.zip)

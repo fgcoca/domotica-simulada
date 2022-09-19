@@ -1,0 +1,136 @@
+# 1. Información del Taller
+site_name: Domótica simulada
+site_description: Se trata de dar unas pinceladas sobre domótica y trabajar con un par de elementos que nos permitirán crear situaciones similares a las reales pero utilizando kits de materiales.
+site_author: Federico Coca
+site_url: https://fgcoca.github.io/domotica-simulada/
+
+# 2. Repositorio
+repo_name: fgcoca/domotica-simulada
+repo_url: https://github.com/fgcoca/domotica-simulada
+edit_uri: ""
+
+# 3. Copyright
+copyright: Copyright &copy; 2020 - 2025 Federico Coca
+
+# 4. RRSS
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/fgcoca
+      name: Twitter de Federico Coca
+    - icon: fontawesome/brands/github
+      link: https://github.com/fgcoca
+      name: Github de Federico Coca
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/cocafederico/?hl=es
+      name: Instagram de Federico Coca
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/clubroboticagra
+      name: Twitter de Club Robótica Granada 
+
+# 5. Navegación
+nav:
+  - 1. Introducción: index.md
+  - 2. Kit Smart Home de Keyestudio:
+    - 2.1. El kit: 2_1_kitsmarthome.md
+    - 2.2. Guía de ensamblado: 2_2_ensamble.md
+    - 2.3. Placas KS0486 PLUS y Ks0004 Sensor Shield V5.2: placas.md
+  - 3. Actividades con la Smart home de Keyestudio:
+    - 3.1. Introducción: intro.md
+    - 3.2. A01-Diodos LED: led.md
+    - 3.3. A02-Zumbador: buzz.md
+    - 3.4. A03-Pulsador: pulsador.md
+    - 3.5. A04-Relés: rele.md
+    - 3.6. A05-Fotocélula LDR: LDR.md
+    - 3.7. A06-Servomotores: servo.md
+    - 3.8. A07-Módulo ventilador: ventilador.md
+    - 3.9. A08-Sensor de vapor (steam): vapor.md
+    - 3.10. A09-Sensor de movimiento PIR: pir.md
+    - 3.11. A10-Sensor de gas MQ-2: gas.md
+    - 3.12. A11-La LCD de 2x16: LCD.md
+    - 3.13. A12-Sensor de humedad del suelo: humedad.md
+    - 3.14. Todas las actividades: todos.md
+  - 4. Bluetooth y APP:
+    - 4.1. Bluetooth: BT.md
+    - 4.2. APP: app.md
+  - 5. Retos:
+    - 5.1. Reto 1 - Alarma por gas: agas.md
+    - 5.2. Reto 2 - Alarma por movimiento: movimiento.md
+    - 5.3. Reto 3 - Control Smart Home con APP: controlapp.md
+  - Miscelanea:
+    - Autor: Miscelanea/about.md 
+    - Licencias: Miscelanea/lic.md
+    - Webgrafia/Bibliografía: Miscelanea/webgrafia.md
+    - Software utilizado: Miscelanea/soft.md
+
+# 6. Google Analytics
+#google_analytics:
+#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+#  - auto
+
+# 7. Configuración del tema
+theme:
+  name: material
+  # Color - Fuentes - Lenguaje
+  palette:
+    primary: light blue
+    accent: deep purple 
+  font:
+    text: Roboto
+    code: Roboto Mono 
+  logo: img/favicon.png 
+  favicon: img/favicon.png 
+  language: es
+  extra:
+    search:
+      language: es, en
+  # Página 404
+  static_templates:
+    - 404.html
+  # No incluir los JavaScript de MkDocs
+  #include_search_page: false
+  #search_index_only: true
+
+# 8. Extensiones
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      linenums: true
+      # guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# 9. Necesario para la extensión pydownx.arithmatex
+extra_javascript:
+  # Este fichero es opcional y solo si se quiere sobreescribir la configuracion del plugin
+  #- js/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+
+# 10. Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
