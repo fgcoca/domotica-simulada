@@ -183,7 +183,7 @@ Preparamos los componentes siguientes:
 | 2 | Tornillos de cabeza redonda M2x12mm | ![Tornillo de cabeza redonda M2x12mm](../img/2_kit/tableroD/TD_5.png) |
 | 2 | Tuercas M2 | ![Tuercas M2](../img/2_kit/tableroD/TD_6.png) |
 | 4 | Tornillos autoroscantes M1.2x5mm | ![Tornillo autoroscantes M1.2x5mm](../img/2_kit/tableroD/TD_7.png) |
-| 1 | Tornillo de cabeza redonda M2x5mm | ![Tornillo de cabeza redonda M2x5mm](../img/2_kit/tableroD/TD_8.png) |
+| 1 | Tornillo de cabeza redonda M2x5mm <br>En la bolsa del servo</br> | ![Tornillo de cabeza redonda M2x5mm](../img/2_kit/tableroD/TD_8.png) |
 | 1 | Engranaje | ![Engranaje](../img/2_kit/tableroD/TD_9.png) |
 | 1 | Servo motor 9g | ![Servo motor 9g](../img/2_kit/tableroD/TD_10.png) |
 | 1 | Cruz de montaje | ![Cruz de montaje](../img/2_kit/tableroD/TD_11.png) |
@@ -340,7 +340,7 @@ Preparamos los componentes siguientes:
 | 2 | Tuercas M2 | ![Tuercas M2](../img/2_kit/tableroH/TH_8.png) |
 | 4 | Separadores hexagonales M3x10mm | ![Separadores hexagonales M3x10mm](../img/2_kit/tableroH/TH_9.png) |
 | 4 | Tornillos autoroscantes M1.2x5mm | ![Tornillo autoroscantes M1.2x5mm](../img/2_kit/tableroH/TH_10.png) |
-| 1 | Tornillo de cabeza redonda M2x5mm | ![Tornillo de cabeza redonda M2x5mm](../img/2_kit/tableroH/TH_11.png) |
+| 1 | Tornillo de cabeza redonda M2x5mm <br>En la bolsa del servo</br>| ![Tornillo de cabeza redonda M2x5mm](../img/2_kit/tableroH/TH_11.png) |
 | 1 | Servo motor 9g | ![Servo motor 9g](../img/2_kit/tableroH/TH_12.png) |
 | 1 | Pala de montaje | ![Cruz de montaje](../img/2_kit/tableroH/TH_13.png) |
 | 1 | Zumbador pasivo | ![Zumbador pasivo](../img/2_kit/tableroH/TH_14.png) |
@@ -350,7 +350,7 @@ Preparamos los componentes siguientes:
 
 </center>
 
-En la Figura 2.2.20 vemos el conjunto de materiales desplegado para tenerlo todo a mano para comenzar el montaje.
+En la Figura 2.2.20 vemos el conjunto de materiales desplegado para tenerlo todo a mano y comenzar el montaje.
 
 <center>
 
