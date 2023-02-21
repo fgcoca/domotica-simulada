@@ -268,7 +268,7 @@ Con toda esta información pasamos a ver los bloques disponibles para poner todo
 
 ## <FONT COLOR=#007575>**Actividades**</font>
 ### <FONT COLOR=#AA0000>Actividad A11_1</font>
-En esta actividad enviaremos un texto a la LCD. El programa final lo tenemos disponible en el enlace [Smart-home-A11_1](http://www.arduinoblocks.com/web/project/916661).
+En esta actividad enviaremos un texto a la LCD. El programa final lo tenemos disponible en el enlace [Smart-home-A11_1](../programas/Smart-home-A11_1.abp).
 
 <center>
 
@@ -278,7 +278,7 @@ En esta actividad enviaremos un texto a la LCD. El programa final lo tenemos dis
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A11_2</font>
-En esta actividad enviaremos a la LCD el valor leído por la LDR y el nombre de la canción que suena de forma simultánea como primera tarea. Una segunda tarea es reproducir distintas canciones y actualizar el nombre de la variable. El programa final lo tenemos disponible en el enlace [Smart-home-A11_2](http://www.arduinoblocks.com/web/project/916964).
+En esta actividad enviaremos a la LCD el valor leído por la LDR y el nombre de la canción que suena de forma simultánea como primera tarea. Una segunda tarea es reproducir distintas canciones y actualizar el nombre de la variable. El programa final lo tenemos disponible en el enlace [Smart-home-A11_2](../programas/Smart-home-A11_2.abp).
 
 <center>
 

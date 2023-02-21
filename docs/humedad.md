@@ -24,7 +24,7 @@ Sus principales especificaciones son:
 * Superficie: estañada para mejorar su conductividad y durabilidad
 
 ### <FONT COLOR=#AA0000>Actividad A12_1</font>
-En esta actividad enviaremos a la LCD el valor detectado por el sensor de humedad de suelo conectado en A2. El programa final lo tenemos disponible en el enlace [Smart-home-A12_1](http://www.arduinoblocks.com/web/project/916981).
+En esta actividad enviaremos a la LCD el valor detectado por el sensor de humedad de suelo conectado en A2. El programa final lo tenemos disponible en el enlace [Smart-home-A12_1](../programas/Smart-home-A12_1.abp).
 
 <center>
 

@@ -13,6 +13,4 @@ Realizar un programa que emita un sonido y ponga intermitente el diodo LED amari
 
 En la visualización en pantalla los valores de gas se muestran en tanto por ciento.
 
-* En el enlace [Smart-home-Reto1](http://www.arduinoblocks.com/web/project/917303) tenemos el programa listo para verlo y traerlo a nuestros proyectos.
-
 * Si preferimos descargar el proyecto a nuestro ordenador, desde el archivo [Smart-home-Reto1.abp](../img/5/Smart-home-Reto1.abp) podemos hacerlo para posteriormente importarlo. 

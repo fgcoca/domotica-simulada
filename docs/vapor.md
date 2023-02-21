@@ -27,7 +27,8 @@ Sus principales especificaciones son:
 * -： Alimentación negativa o masa (GND)
 
 ### <FONT COLOR=#AA0000>Actividad A08_1</font>
-En esta actividad controlaremos el diodo LED amarillo conectado al pin D5 utilizando el sensor de vapor conectado al pin A3 como sensor táctil. Utilizaremos el monitor serie para ver el estado de la variable creada. La solución la tenemos disponible en [Smart-home-A08_1](http://www.arduinoblocks.com/web/project/915164).
+En esta actividad controlaremos el diodo LED amarillo conectado al pin D5 utilizando el sensor de vapor conectado al pin A3 como sensor táctil. Utilizaremos el monitor serie para ver el estado de la variable creada. La solución la tenemos disponible en [Smart-home-A08_1](../programas/Smart-home-A08
+_1.abp).
 
 <center>
 
@@ -48,7 +49,7 @@ En la Figura 3.9.3 vemos el efecto en la consola de activar o no el sensor.
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A08_1</font>
-En esta actividad vamos a leer directamente el valor entregado por el sensor de vapor conectado al pin A3. Utilizaremos el monitor serie para ver el resultado. La solución la tenemos disponible en [Smart-home-A08_2](http://www.arduinoblocks.com/web/project/915182).
+En esta actividad vamos a leer directamente el valor entregado por el sensor de vapor conectado al pin A3. Utilizaremos el monitor serie para ver el resultado. La solución la tenemos disponible en [Smart-home-A08_2](../programas/Smart-home-A08_2.abp).
 
 <center>
 

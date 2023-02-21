@@ -55,7 +55,7 @@ Las señales PWM emulan una señal analógica para aplicaciones como variar la l
 La placa KS0486 Keyestudio PLUS es de tipo UNO y dispone de seis salidas PWM (D3, D5, D6, D9, D10 y D11). 
 
 ### <FONT COLOR=#AA0000>Actividad A01_1</font>
-En esta actividad encenderemos y apagaremos cada dos segundos el led blanco que tenemos conectado al pin D13. El programa final queda como vemos en la Figura 3.2.1 y lo tenemos disponible en el enlace [Smart-home-A01_1](http://www.arduinoblocks.com/web/project/913709).
+En esta actividad encenderemos y apagaremos cada dos segundos el led blanco que tenemos conectado al pin D13. El programa final queda como vemos en la Figura 3.2.1 y lo tenemos disponible en el enlace [Smart-home-A01_1](../programas/Smart-home-A01_2.abp).
 
 <center>
 

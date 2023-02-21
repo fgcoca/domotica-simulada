@@ -94,7 +94,7 @@ Las entradas analógicas trabajan con 10 bits, o sea valores comprendidos entre 
 Este bloque permite modificar un valor o variable desde un rango origen a un rango destino. Esta función es especialmente útil para adaptar los valores leídos de sensores o para adaptar valores a aplicar en un actuador.
 
 ### <FONT COLOR=#AA0000>Actividad A04_1</font>
-Esta actividad va a consistir sencillamente en activar y desactivar el relé lo que originará un cambio en la posición de sus contactos. La forma de visualizar que funciona puede ser colocar un diodo LED entre el común y uno de los contactos, medir continuidad con un polímetro o colocar en los contactos cualquier otro elemento que nos permita observar que el relé cambia de estado. Si prestamos atención podemos escuchar actuar los contactos. La solución la tenemos disponible en [Smart-home-A04_1](http://www.arduinoblocks.com/web/project/914343).
+Esta actividad va a consistir sencillamente en activar y desactivar el relé lo que originará un cambio en la posición de sus contactos. La forma de visualizar que funciona puede ser colocar un diodo LED entre el común y uno de los contactos, medir continuidad con un polímetro o colocar en los contactos cualquier otro elemento que nos permita observar que el relé cambia de estado. Si prestamos atención podemos escuchar actuar los contactos. La solución la tenemos disponible en [Smart-home-A04_1](../programas/Smart-home-A04_1.abp).
 
 <center>
 
@@ -105,7 +105,7 @@ Esta actividad va a consistir sencillamente en activar y desactivar el relé lo 
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A04_2</font>
-Vamos a controlar el accionamiento de un relé desde nuestro ordenador a través de la consola serie utilizando los siguientes comandos, que enviaremos desde la consola: 1 –> ON, 2 –> OFF y 3 –> Conmutar ON/OFF a 500 ms. La solución la tenemos disponible en [Smart-home-A04_2](http://www.arduinoblocks.com/web/project/914357).
+Vamos a controlar el accionamiento de un relé desde nuestro ordenador a través de la consola serie utilizando los siguientes comandos, que enviaremos desde la consola: 1 –> ON, 2 –> OFF y 3 –> Conmutar ON/OFF a 500 ms. La solución la tenemos disponible en [Smart-home-A04_2](../programas/Smart-home-A04_2.abp).
 
 <center>
 

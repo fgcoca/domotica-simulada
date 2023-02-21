@@ -11,7 +11,7 @@ Una fotorresistencia, fotorresistor o LDR es un componente electrónico cuya res
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A05_1</font>
-Esta primera actividad va a consistir sencillamente en detectar el nivel de iluminación con la LDR (pin A1) y enviar el resultado a la consola. La solución la tenemos disponible en [Smart-home-A05_1](http://www.arduinoblocks.com/web/project/914378).
+Esta primera actividad va a consistir sencillamente en detectar el nivel de iluminación con la LDR (pin A1) y enviar el resultado a la consola. La solución la tenemos disponible en [Smart-home-A05_1](../programas/Smart-home-A05_1.abp).
 
 <center>
 
@@ -32,7 +32,7 @@ En la Figura 3.6.2 vemos el resultado generado en la consola.
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A05_2</font>
-Programar un interruptor crepuscular utilizando la LDR (pin A1) y el LED exterior de color blanco (pin 13) que simula el farol exterior. El nivel de luz mínimo permitido antes de encender el farol es del 30%, de forma que con un valor menor o igual al 30% se encienda el LED y con un valor mayor permanezca apagado. La solución la tenemos disponible en [Smart-home-A05_2](http://www.arduinoblocks.com/web/project/914483).
+Programar un interruptor crepuscular utilizando la LDR (pin A1) y el LED exterior de color blanco (pin 13) que simula el farol exterior. El nivel de luz mínimo permitido antes de encender el farol es del 30%, de forma que con un valor menor o igual al 30% se encienda el LED y con un valor mayor permanezca apagado. La solución la tenemos disponible en [Smart-home-A05_2](../programas/Smart-home-A05_2.abp).
 
 <center>
 

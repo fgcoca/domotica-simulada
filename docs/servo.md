@@ -84,7 +84,7 @@ Los bloques que se crean nos permiten asignarle valores, saber el número de ele
 De forma muy similar se pueden crear y trabajar con lista de textos.
 
 ### <FONT COLOR=#AA0000>Actividad A06_1</font>
-Esta primera actividad va a consistir en posicionar el servo de la ventana (pin 10) en posiciones prefijadas en una lista. La solución la tenemos disponible en [Smart-home-A06_1](http://www.arduinoblocks.com/web/project/914702).
+Esta primera actividad va a consistir en posicionar el servo de la ventana (pin 10) en posiciones prefijadas en una lista. La solución la tenemos disponible en [Smart-home-A06_1](../programas/Smart-home-A06_1.abp).
 
 <center>
 
@@ -95,7 +95,7 @@ Esta primera actividad va a consistir en posicionar el servo de la ventana (pin 
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A06_2</font>
-En esta actividad controlaremos la posición angular de la puerta mediante el servomotor al cual está unida. Este servomotor está conectado en el pin D9. La solución la tenemos disponible en [Smart-home-A06_2](http://www.arduinoblocks.com/web/project/914730).
+En esta actividad controlaremos la posición angular de la puerta mediante el servomotor al cual está unida. Este servomotor está conectado en el pin D9. La solución la tenemos disponible en [Smart-home-A06_2](../programas/Smart-home-A06_2.abp).
 
 <center>
 

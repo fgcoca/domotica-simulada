@@ -1,5 +1,6 @@
 # <FONT COLOR=#8B008B>3.10. A09-Sensor de movimiento PIR</font>
-## <FONT COLOR=#007575>Teoría</font>3.11. A10-Sensor de gas MQ-2
+
+## <FONT COLOR=#007575>Teoría</font>
 Los detectores PIR (del ingés Passive Infrared), se caracterizan por su reducido tamaño, bajo costo, no ser influenciados por la luz natural, tener un bajo consumo de energía y ser de muy fácil manejo. Reaccionan sólo ante determinadas fuentes de energía tales como la generada por el calor del cuerpo humano o de los animales. Basan su funcionamiento en que todos los cuerpos (especialmente los vivos) emiten una cierta cantidad de energía infrarroja, mayor cuanto mayor es su temperatura que la capta un sensor piro eléctrico y la convierte en una señal eléctrica.
 
 Los detectores PIR son dispositivos que detectan variaciones de la radiación infrarroja en su área de cobertura, por lo que son especialmente útiles para detectar la presencia de personas o animales a través del calor que emiten sus cuerpos.
@@ -74,7 +75,7 @@ Algunas aclaraciones que nos hace el fabricante:
 5. Cuando carguemos nuestro código debemos esperar entre 5 a 10 segundos para que el módulo sea sensible y luego comenzar a probar.
 
 ### <FONT COLOR=#AA0000>Actividad A09_1</font>
-En esta actividad vamos a hacer que cuando el sensor PIR (pin 2) detecte una presencia suene una alarma acústica en el zumbador (pin 3) y que alternativamente parpadeen los diodos LED amarillo (pin 5) y blanco (pin 13). La solución la tenemos disponible en [Smart-home-A09_1](http://www.arduinoblocks.com/web/project/915382).
+En esta actividad vamos a hacer que cuando el sensor PIR (pin 2) detecte una presencia suene una alarma acústica en el zumbador (pin 3) y que alternativamente parpadeen los diodos LED amarillo (pin 5) y blanco (pin 13). La solución la tenemos disponible en [Smart-home-A09_1](../programas/Smart-home-A09_1.abp).
 
 <center>
 

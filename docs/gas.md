@@ -36,7 +36,7 @@ El sensor dispone de 4 pines, que son:
 * A0: Salida analógica del sensor.
 
 ### <FONT COLOR=#AA0000>Actividad A10_1</font>
-En esta actividad vamos a leer directamente el valor entregado por el sensor MQ-2 (pines 11 y A0) enviando los datos al terminal serie. La solución la tenemos disponible en [Smart-home-A10_1]().
+En esta actividad vamos a leer directamente el valor entregado por el sensor MQ-2 (pines 11 y A0) enviando los datos al terminal serie. La solución la tenemos disponible en [Smart-home-A10_1](../programas/Smart-home-A10_1.abp).
 
 <center>
 
@@ -57,7 +57,7 @@ En la Figura 3.11.4 vemos los resultados de la lectura en la consola serie y se 
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A10_2</font>
-En lugar de enviar los datos a la consola serie como en A10_1 los enviamos al Serial Plotter. La solución la tenemos disponible en [Smart-home-A10_2](http://www.arduinoblocks.com/web/project/915451).
+En lugar de enviar los datos a la consola serie como en A10_1 los enviamos al Serial Plotter. La solución la tenemos disponible en [Smart-home-A10_2](../programas/Smart-home-A10_2.abp).
 
 <center>
 
@@ -78,7 +78,7 @@ En la Figura 3.11.6 vemos una captura del datalogger.
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A10_3</font>
-Montamos una alarma sonora por detección de gas. La solución la tenemos disponible en [Smart-home-A10_3](http://www.arduinoblocks.com/web/project/915437).
+Montamos una alarma sonora por detección de gas. La solución la tenemos disponible en [Smart-home-A10_3](../programas/Smart-home-A10_3.abp).
 
 <center>
 

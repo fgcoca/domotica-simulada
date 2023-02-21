@@ -142,7 +142,7 @@ El bucle principal tiene la configuración que vemos en la imagen siguiente:
 ### <FONT COLOR=#AA0000>Actividad A02_1</font>
 En el bloque Zumbador podemos modificar dos parámetros, el tiempo que dura cada sonido expresado en milisegundos (campo Ms) y la frecuencia en Hz a la que reproducirá el sonido el zumbador (campo Hz).
 
-Vamos a comenzar haciendo un programa (Figura 3.3.1) que reproduzca tres de las notas de la escala musical vista anteriormente. La solución la tenemos disponible en [Smart-home-A02_1](http://www.arduinoblocks.com/web/project/913720).
+Vamos a comenzar haciendo un programa (Figura 3.3.1) que reproduzca tres de las notas de la escala musical vista anteriormente. La solución la tenemos disponible en [Smart-home-A02_1](../programas/Smart-home-A02_1.abp).
 
 <center>
 
@@ -153,7 +153,7 @@ Vamos a comenzar haciendo un programa (Figura 3.3.1) que reproduzca tres de las 
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A02_2</font>
-Reproducir la escala musical con las notas básicas utilizando los bloques Zumbador y Tono como vemos en la Figura 3.3.2. La solución la tenemos disponible en [Smart-home-A02_2](http://www.arduinoblocks.com/web/project/913731).
+Reproducir la escala musical con las notas básicas utilizando los bloques Zumbador y Tono como vemos en la Figura 3.3.2. La solución la tenemos disponible en [Smart-home-A02_2](../programas/Smart-home-A02_2.abp).
 
 <center>
 
@@ -174,7 +174,7 @@ Reproducir la melodía de la Figura 3.3.3 sabiendo que las negras tienen una dur
 
 </center>
 
-Se trata de un fragmento del himno a la alegría que vamos a programar utilizando funciones. En la Figura 3.3.4 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A02_3](http://www.arduinoblocks.com/web/project/914043).
+Se trata de un fragmento del himno a la alegría que vamos a programar utilizando funciones. En la Figura 3.3.4 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A02_3](../programas/Smart-home-A02_3.abp).
 
 <center>
 
@@ -187,7 +187,7 @@ Se trata de un fragmento del himno a la alegría que vamos a programar utilizand
 ### <FONT COLOR=#AA0000>Actividad A02_4</font>
 Reproducir diferentes melodías a partir de los bloques RTTTL (Ring Tone Text Transfer Language o lenguaje de tonos de llamada). La solución es sencilla, basta con escoger el bloque Zumbador Reproducir RTTTL y acoplarle el bloque RTTTL escogiendo la melodía a reproducir. En la solución se han puestos dos grupos de bloques con dos de las posibles melodías dejando un tiempo de 5 segundos entre una y otra. En este caso además los bloques se han colocado en "Inicializar" por lo que solamente se van a ejecutar una vez y no de manera indefinida. Si queremos oírlo de nuevo debemos hacer reset en la placa o desconectar y conectar la alimentación.
 
-En la Figura 3.3.5 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A02_4](http://www.arduinoblocks.com/web/project/914051).
+En la Figura 3.3.5 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A02_4](../programas/Smart-home-A02_4.abp).
 
 <center>
 

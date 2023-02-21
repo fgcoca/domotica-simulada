@@ -13,6 +13,4 @@ Añadir al reto 1 la alarma si el sensor PIR detecta movimiento. Se muestra info
 
 En la visualización en pantalla los valores de gas se muestran en tanto por ciento y para el sensor PIR se indica su estado lógico: '0' cuando no está activado y '1' cuando está activado.
 
-* En el enlace [Smart-home-Reto2](http://www.arduinoblocks.com/web/project/917310) tenemos el programa listo para verlo y traerlo a nuestros proyectos.
-
 * Si preferimos descargar el proyecto a nuestro ordenador, desde el archivo [Smart-home-Reto2.abp](../img/5/Smart-home-Reto2.abp) podemos hacerlo para posteriormente importarlo. 

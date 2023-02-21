@@ -81,7 +81,7 @@ Cada vez que pulsemos sobre el signo mas se añadirá una cláusula "else if" a 
 El signo menos (-) que aparece en la imagen sirve para eliminar la correspondiente cláusula "else if".
 
 ### <FONT COLOR=#AA0000>Actividad A03_1</font>
-En esta actividad haremos un sencillo programa que encienda el LED amarillo (D5) cuando pulsemos el pulsador de la izquierda (D4). En la Figura 3.4.1 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A03_1](http://www.arduinoblocks.com/web/project/914067).
+En esta actividad haremos un sencillo programa que encienda el LED amarillo (D5) cuando pulsemos el pulsador de la izquierda (D4). En la Figura 3.4.1 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A03_1](../programas/Smart-home-A03_1.abp).
 
 <center>
 
@@ -92,7 +92,7 @@ En esta actividad haremos un sencillo programa que encienda el LED amarillo (D5)
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A03_2</font>
-En esta actividad haremos el mismo programa que en la anterior, pero utilizando la clausula else. En la Figura 3.4.2 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A03_2](http://www.arduinoblocks.com/web/project/914081).
+En esta actividad haremos el mismo programa que en la anterior, pero utilizando la clausula else. En la Figura 3.4.2 vemos el programa completo. La solución la tenemos disponible en [Smart-home-A03_2](../programas/Smart-home-A03_2.abp).
 
 <center>
 
@@ -103,7 +103,7 @@ En esta actividad haremos el mismo programa que en la anterior, pero utilizando 
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A03_3</font>
-Resolver la actividad A03_2 de forma que el funcionamiento sea al contrario, es decir, que el LED amarillo esté siempre encendido y al accionar el pulsador izquierdo se apague. La solución la tenemos disponible en [Smart-home-A03_3](http://www.arduinoblocks.com/web/project/914101).
+Resolver la actividad A03_2 de forma que el funcionamiento sea al contrario, es decir, que el LED amarillo esté siempre encendido y al accionar el pulsador izquierdo se apague. La solución la tenemos disponible en [Smart-home-A03_3](../programas/Smart-home-A03_3.abp).
 
 <center>
 
@@ -114,7 +114,7 @@ Resolver la actividad A03_2 de forma que el funcionamiento sea al contrario, es 
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A03_4</font>
-Hacer un programa que al accionar el pulsador izquierdo se encienda el LED amarillo y que al accionar el pulsador derecho (8) se apague. Como ampliación se sugiere modificar el programa para que encienda y apague los dos LEDs blanco y amarillo a un tiempo o de forma alternada. La solución la tenemos disponible en [Smart-home-A03_4](http://www.arduinoblocks.com/web/project/914126). La solución en esta ocasión está en utilizar el operador NOT y el operador AND. Para obtener mas información sobre [operadores lógicos](https://fgcoca.github.io/TdR-STEAM-and_UNO/operadores/) podemos ir al enlace.
+Hacer un programa que al accionar el pulsador izquierdo se encienda el LED amarillo y que al accionar el pulsador derecho (8) se apague. Como ampliación se sugiere modificar el programa para que encienda y apague los dos LEDs blanco y amarillo a un tiempo o de forma alternada. La solución la tenemos disponible en [Smart-home-A03_4](../programas/Smart-home-A03_4.abp). La solución en esta ocasión está en utilizar el operador NOT y el operador AND. Para obtener mas información sobre [operadores lógicos](https://fgcoca.github.io/TdR-STEAM-and_UNO/operadores/) podemos ir al enlace.
 
 <center>
 
@@ -137,7 +137,7 @@ El alfabeto Morse lo vemos en la Figura 3.4.5, donde podemos observar que la S s
 
 </center>
 
-La solución la tenemos disponible en [Smart-home-A03_5](http://www.arduinoblocks.com/web/project/914128).
+La solución la tenemos disponible en [Smart-home-A03_5](../programas/Smart-home-A03_5.abp).
 
 <center>
 
@@ -148,7 +148,7 @@ La solución la tenemos disponible en [Smart-home-A03_5](http://www.arduinoblock
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A03_6</font>
-Hacer un programa que al accionar el pulsador izquierdo encienda el LED amarillo y que este permanezca encendido hasta que no accionemos el mismo pulsador dos veces mas (3 pulsaciones en total), en cuyo caso se apagará. La solución la tenemos disponible en [Smart-home-A03_6](http://www.arduinoblocks.com/web/project/914130).
+Hacer un programa que al accionar el pulsador izquierdo encienda el LED amarillo y que este permanezca encendido hasta que no accionemos el mismo pulsador dos veces mas (3 pulsaciones en total), en cuyo caso se apagará. La solución la tenemos disponible en [Smart-home-A03_6](../programas/Smart-home-A03_6.abp).
 
 <center>
 

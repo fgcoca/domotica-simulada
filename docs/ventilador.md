@@ -25,7 +25,7 @@ En el apartado de bloques de programación, se encuentra en "Actuadores", tal y 
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A07_1</font>
-En esta actividad controlaremos el ventilador que está conectado en los pines D6 y D7. Utilizaremos el pin D6 para regular la velocidad del motor y el pin D7 cuando está apagado o encendido. La solución la tenemos disponible en [Smart-home-A07_1](http://www.arduinoblocks.com/web/project/914741).
+En esta actividad controlaremos el ventilador que está conectado en los pines D6 y D7. Utilizaremos el pin D6 para regular la velocidad del motor y el pin D7 cuando está apagado o encendido. La solución la tenemos disponible en [Smart-home-A07_1](../programas/Smart-home-A07_1.abp).
 
 <center>
 
@@ -36,7 +36,7 @@ En esta actividad controlaremos el ventilador que está conectado en los pines D
 </center>
 
 ### <FONT COLOR=#AA0000>Actividad A07_2</font>
-En esta actividad accionaremos el ventilador mediante uno de los pulsadores y se mantendrá en funcionamiento el tiempo que prefijemos en el programa. La solución la tenemos disponible en [Smart-home-A07_2](http://www.arduinoblocks.com/web/project/914747).
+En esta actividad accionaremos el ventilador mediante uno de los pulsadores y se mantendrá en funcionamiento el tiempo que prefijemos en el programa. La solución la tenemos disponible en [Smart-home-A07_2](../programas/Smart-home-A07_2.abp).
 
 <center>
 

@@ -11,9 +11,7 @@ En este último reto vamos a programar todas las posibilidades que nos ofrece la
 
 </center>
 
-* En el enlace [Smart-home-Reto3](http://www.arduinoblocks.com/web/project/917984) tenemos el programa listo para verlo y traerlo a nuestros proyectos.
-
-* Si preferimos descargar el proyecto a nuestro ordenador, desde el archivo [Smart-home-Reto3.abp](../img/5/Smart-home-Reto3.abp) podemos hacerlo para posteriormente importarlo.
+* Podemos descargar el proyecto a nuestro ordenador, desde el archivo [Smart-home-Reto3.abp](../img/5/Smart-home-Reto3.abp) podemos hacerlo para posteriormente importarlo.
 
 ## <FONT COLOR=#007575>**Explicación del programa**</font>
 En la Figura 5.3.2 vemos los bloques "Inicializar" y "Bucle" además de la función "mensaje-inicial" que no requieren mayor explicación.
