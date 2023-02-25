@@ -33,3 +33,4 @@ En esta actividad enviaremos a la LCD el valor detectado por el sensor de humeda
 *Figura 3.13.2. Solución A12_1*
 
 </center>
+a
